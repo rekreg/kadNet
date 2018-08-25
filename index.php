@@ -65,11 +65,7 @@ $KadNet->check_and_send_order("5b8f4595-b434-4785-b365-1ccb5c57a21d");
 
   <hr>
 
-  <pre>
-    <?php
-    // print_r($info_arr);
-     ?>
-  </pre>
+
 
   <hr>
 
